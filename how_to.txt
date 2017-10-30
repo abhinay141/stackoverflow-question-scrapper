@@ -1,4 +1,4 @@
-$ scrapy startproject stack#type this in the command line to start this project
+ scrapy startproject stack#type this in the command line to start this project
 2015-09-05 20:56:40 [scrapy] INFO: Scrapy 1.0.3 started (bot: scrapybot)
 2015-09-05 20:56:40 [scrapy] INFO: Optional features available: ssl, http11
 2015-09-05 20:56:40 [scrapy] INFO: Overridden settings: {}
