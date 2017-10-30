@@ -1,0 +1,23 @@
+$ scrapy startproject stack#type this in the command line to start this project
+2015-09-05 20:56:40 [scrapy] INFO: Scrapy 1.0.3 started (bot: scrapybot)
+2015-09-05 20:56:40 [scrapy] INFO: Optional features available: ssl, http11
+2015-09-05 20:56:40 [scrapy] INFO: Overridden settings: {}
+New Scrapy project 'stack' created in:
+    /stack-spider/stack
+
+You can start your first spider with:
+    cd stack
+    scrapy genspider example example.com
+
+open atom or any text editor for that matter(i personally recommend atom),and open your project folder
+you should see the following files in your directory.
+├── scrapy.cfg
+└── stack
+    ├── __init__.py
+    ├── items.py
+    ├── pipelines.py
+    ├── settings.py
+    └── spiders
+        └── __init__.py
+The items.py is used to define the data you want to scraped
+and in the spiders directory create your spider(in my files,overflow_spider.py is the spider file)

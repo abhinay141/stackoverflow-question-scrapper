@@ -1,0 +1,5 @@
+Scrapy
+mac:
+$ pip install Scrapy==1.0.3
+pc:
+ pip install Scrapy
